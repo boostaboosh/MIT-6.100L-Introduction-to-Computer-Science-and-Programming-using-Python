@@ -1,0 +1,2 @@
+# MIT 6.100L Introduction to Computer Science and Programming using Python
+ A repo for work I complete related to the course: MIT 6.100L Introduction to Computer Science and Programming using Python. The problem sets for completing the course will be included. The Fall 2022 version of the course I am following, which is also used in subsequent years, [is available on MIT's OpenCourseWare platform](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/).
